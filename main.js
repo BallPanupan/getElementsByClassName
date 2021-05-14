@@ -1,4 +1,5 @@
 //getElementsByClassName by Jane
+//Copy and paste in console.log browser
 var elements = document.getElementsByClassName("list-unstyled components");
 var r = [];
 for (var i=0; i < elements[0].children.length; i++) {
